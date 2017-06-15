@@ -7266,9 +7266,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data() {
@@ -7306,7 +7303,7 @@ exports = module.exports = __webpack_require__(5)(undefined);
 
 
 // module
-exports.push([module.i, "\n#example[data-v-69697fcf] {\r\n    height: 600px;\r\n    width: 600px;\r\n    font-size: 24px;\r\n    background-color: lightblue;\n}\r\n", ""]);
+exports.push([module.i, "\n#example[data-v-69697fcf] {\r\n    height: 100px;\r\n    width: 400px;\r\n    font-size: 24px;\r\n    background-color: lightblue;\r\n    text-align: center;\n}\r\n", ""]);
 
 // exports
 
@@ -7689,9 +7686,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     attrs: {
       "id": "example"
     }
-  }, [_c('h1', [_vm._v(_vm._s(_vm.msg))]), _vm._v(" "), _c('ul', _vm._l((5), function(n) {
-    return _c('li', [_vm._v(_vm._s(n))])
-  }))])
+  }, [_c('h1', [_vm._v(_vm._s(_vm.msg))])])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 if (false) {
