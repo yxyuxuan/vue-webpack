@@ -154,6 +154,6 @@ e: 安装css-loader file-loader解析CSS.
 
     webpack-dev-server 
     
-等待程序运行完毕，在浏览器输入http://localhost:8080/查看页面如下：
+等待程序运行完毕，在浏览器输入http://localhost:8080/webpack-dev-server　查看页面如下：
 
 ![](https://yxyuxuan.github.io/WeiXinErrorImages/vue-webpack.png)
